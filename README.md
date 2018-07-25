@@ -1,6 +1,5 @@
 # super-init-py
-Imports most (some did not import well) listed primary modules (AKA not child packages) from the Python Standard Library in one command.
-Instructions:
+Imports all modules in the Python Standard Library in one command:
 1. Download this repository
 2. Check for the file 'SuperInit.py.' This file is the main element of this mini-project.
 3. Put SuperInit.py in the scope of all files that you intend to use it with.
